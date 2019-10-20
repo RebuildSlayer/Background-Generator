@@ -2,7 +2,6 @@ var input1=document.getElementById("input1");
 var input2=document.getElementById("input2");
 var body=document.querySelector("body");
 var h3=document.querySelector("h3");
-var i1,i2;
 
 function color1()
 {
